@@ -39,6 +39,9 @@ h1{
 	font-weight: bold;
 	cursor: pointer;
 }
+.common-btn:hover{
+  background-color: #fab3c4;
+}
 
 article{
 	font-size: 15px;
